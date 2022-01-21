@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es2016",
+    "module": "commonjs",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true, /* Enable error reporting for expressions and declarations with an implied `any` type.. */
+    "strictNullChecks": true, /* When type checking, take into account `null` and `undefined`. */
+    "skipLibCheck": true
+  }
+}
